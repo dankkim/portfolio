@@ -1295,16 +1295,17 @@ td, th {
   background: url(../img/web_kids.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.brand-1 {
-  background: url(../img/brand_soju.jpg) no-repeat center center/cover;
-}
 
-.single-filter-content.brand-2 {
+.single-filter-content.brand-1 {
   background: url(../img/brand_kimbap.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.brand-3 {
+.single-filter-content.brand-2 {
   background: url(../img/brand_gocheok.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.brand-3 {
+  background: url(../img/brand_soju.jpg) no-repeat center center/cover;
 }
 
 .single-filter-content.brand-4 {
@@ -1329,6 +1330,42 @@ td, th {
 
 .single-filter-content.editorial-5 {
   background: url(../img/editorial_poster.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.editorial-6 {
+  background: url(../img/editorial_safe09.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.ad-1 {
+  background: url(../img/ad_creo.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.ad-2 {
+  background: url(../img/ad_yanolja.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.ad-3 {
+  background: url(../img/ad_socar.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.ad-4 {
+  background: url(../img/ad_al.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.graphic-1 {
+  background: url(../img/graphic_rose.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.graphic-2 {
+  background: url(../img/graphic_may.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.graphic-3 {
+  background: url(../img/graphic_nikon.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.graphic-4 {
+  background: url(../img/graphic_cactus.jpg) no-repeat center center/cover;
 }
 
 .single-filter-content.video-1 {
