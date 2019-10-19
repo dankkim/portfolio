@@ -1287,37 +1287,78 @@ td, th {
   opacity: 1;
 }
 
-.single-filter-content.content-1 {
-  background: url(../img/c1.jpg) no-repeat center center/cover;
+.single-filter-content.web-1 {
+  background: url(../img/web_greennut.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-2 {
-  background: url(../img/c2.jpg) no-repeat center center/cover;
+.single-filter-content.web-2 {
+  background: url(../img/web_kids.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-3 {
-  background: url(../img/c3.jpg) no-repeat center center/cover;
+.single-filter-content.brand-1 {
+  background: url(../img/brand_soju.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-4 {
-  background: url(../img/c4.jpg) no-repeat center center/cover;
+.single-filter-content.brand-2 {
+  background: url(../img/brand_kimbap.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-5 {
-  background: url(../img/c5.jpg) no-repeat center center/cover;
+.single-filter-content.brand-3 {
+  background: url(../img/brand_gocheok.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-6 {
-  background: url(../img/c6.jpg) no-repeat center center/cover;
+.single-filter-content.brand-4 {
+  background: url(../img/brand_samjin.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-7 {
-  background: url(../img/c7.jpg) no-repeat center center/cover;
+.single-filter-content.editorial-1 {
+  background: url(../img/editorial_cubism.jpg) no-repeat center center/cover;
 }
 
-.single-filter-content.content-8 {
-  background: url(../img/c8.jpg) no-repeat center center/cover;
+.single-filter-content.editorial-2 {
+  background: url(../img/editorial_diet.jpg) no-repeat center center/cover;
 }
+
+.single-filter-content.editorial-3 {
+  background: url(../img/editorial_gamsung.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.editorial-4 {
+  background: url(../img/editorial_font.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.editorial-5 {
+  background: url(../img/editorial_poster.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.video-1 {
+  background: url(../img/video_ddp.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.video-2 {
+  background: url(../img/video_mojito.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.video-3 {
+  background: url(../img/video_pitpat.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.video-4 {
+  background: url(../img/video_gocheok.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.character-1 {
+  background: url(../img/character_basak.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.character-2 {
+  background: url(../img/character_pinkoo.jpg) no-repeat center center/cover;
+}
+
+.single-filter-content.photo-1 {
+  background: url(../img/photo01.jpg) no-repeat center center/cover;
+}
+
 
 .single-member {
   margin-top: 30px;
