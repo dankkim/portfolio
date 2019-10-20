@@ -741,7 +741,7 @@ td, th {
 
 .primary-btn {
   line-height: 40px;
-  padding: 0 40px;
+  padding: 0 25px;
   border-radius: 20px;
   background: transparent;
   border: 1px solid #00ff8c;
@@ -776,7 +776,7 @@ td, th {
 
 .homepage-btn {
   line-height: 40px;
-  padding: 0 40px;
+  padding: 0 25px;
   border-radius: 20px;
   background: transparent;
   border: 1px solid #00ff8c;
@@ -1000,19 +1000,20 @@ td, th {
     -ms-flex-direction: column;
     flex-direction: column;
     position: absolute;
-    top: 40px;
+    top: 30px;
     right: 0;
-    background: #4a4fad;
+    background: #00ff8c;
     padding: 30px 20px;
   }
   .default-header .main-menu a {
     margin: 5px 20px !important;
+    color:#262626 !important;
   }
   .default-header .mobile-btn {
     display: block !important;
     font-size: 36px !important;
     position: absolute;
-    top: 0;
+    /*top: 0;*/
     right: 0;
   }
 }
@@ -1450,7 +1451,7 @@ td, th {
 }
 
 .single-member .desc {
-  padding: 30px;background-color: #fff;
+  padding: 30px 10px;background-color: #fff;
 }
 
 .single-member .desc h5{
