@@ -414,6 +414,18 @@ td, th {
   margin-bottom: 100px;
 }
 
+.mb-120 {
+  margin-bottom: 120px;
+}
+
+.mb-150 {
+  margin-bottom: 150px;
+}
+
+.mb-200 {
+  margin-bottom: 200px;
+}
+
 .pt-0 {
   padding-top: 0px;
 }
@@ -1154,8 +1166,31 @@ td, th {
 
 /*SUBPAGE*/
 .banner-area_black {
-  background: url(../img/banner_black.jpg) no-repeat center center/cover;
+  background: url(../img/publishing/banner_black.jpg) no-repeat center center/cover;
 }
+
+.banner-area_cmt {
+  background: url(../img/publishing/banner_cmt.jpg) no-repeat center center/cover;
+}
+
+.banner-area_udon {
+  background: url(../img/publishing/banner_udon.jpg) no-repeat center center/cover;
+}
+
+.banner-area_seoul {
+  background: url(../img/publishing/banner_seoul.jpg) no-repeat center center/cover;
+}
+
+
+.section-sub {
+  padding: 90px 0;
+}
+
+.section-style {
+  padding: 150px 0 200px 0;
+}
+
+
 
 .intro-line {
   padding-top: 40px;
@@ -1791,7 +1826,10 @@ footer .footer-nav li a:hover {
 }
 
 @media (max-width: 630px) {
-  .banner-area_black{
-    background: url(../img/publishing/banner_black02.jpg) no-repeat center center/cover;
+  .banner-area_black,
+  .banner-area_cmt,
+  .banner-area_udon,
+  .banner-area_seoul{
+    height:500px;
   }
 }
