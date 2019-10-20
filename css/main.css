@@ -522,6 +522,10 @@ td, th {
   padding: 150px 0;
 }
 
+.pb-200 {
+  padding-bottom: 200px;
+}
+
 .pr-30 {
   padding-right: 30px;
 }
