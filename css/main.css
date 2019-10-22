@@ -577,6 +577,10 @@ td, th {
   transition: all 0.3s ease 0s;
 }
 
+.section-bg {
+  background: #f9fafc;
+}
+
 .section-full {
   padding: 150px 0;
 }
@@ -587,6 +591,11 @@ td, th {
 
 .section-half {
   padding: 75px 0;
+}
+
+.seoul_bg {
+background-color: rgba(127, 154, 255, 1);
+background: linear-gradient(125deg, rgba(127, 154, 255, 1), rgba(117, 255, 166, 1));
 }
 
 .sub_wrap{background-color: #fff;}
@@ -767,9 +776,6 @@ td, th {
   padding: 0;
 }
 
-.section-bg {
-  background: #f9fafc;
-}
 
 .ml-auto { margin-left : auto !important; }
 
@@ -1221,6 +1227,22 @@ td, th {
 
 .banner-area_seoul {
   background: url(../img/publishing/banner_seoul.jpg) no-repeat center center/cover;
+}
+
+.banner-area_samwoo {
+  background: url(../img/client/banner_samwoo.jpg) no-repeat center center/cover;
+}
+
+.banner-area_safe09 {
+  background: url(../img/client/banner_safe09.jpg) no-repeat center center/cover;
+}
+
+.banner-area_roomnara24 {
+  background: url(../img/client/banner_roomnara24.jpg) no-repeat center center/cover;
+}
+
+.banner-area_life24 {
+  background: url(../img/client/banner_life24.jpg) no-repeat center center/cover;
 }
 
 
@@ -1871,7 +1893,11 @@ footer .footer-nav li a:hover {
   .banner-area_black,
   .banner-area_cmt,
   .banner-area_udon,
-  .banner-area_seoul{
+  .banner-area_seoul,
+  .banner-area_samwoo,
+  .banner-area_safe09,
+  .banner-area_roomnara24,
+  .banner-area_life24{
     height:500px;
   }
 
