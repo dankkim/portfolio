@@ -13,6 +13,26 @@ $(document).ready(function(){
  //        // Animate loader off screen
  //        $(".preloader").fadeOut("slow");;
  //    });
+
+
+ // 맨 위로 가기 버튼
+  $(".top_btn").click(function(){
+        $("html").animate({scrollTop:0},500); //기본 400(0.4초)
+      });
+
+  $(window).scroll(function(){
+        var scrollY = $(window).scrollTop(); //스크롤 위치
+
+        $(".scrollY").html(parseInt(scrollY));
+
+          if(scrollY > 500){
+            $(".top_btn").addClass("view");
+          }else{
+            $(".top_btn").removeClass("view")
+          }
+
+      });
+
 	
 	$(".fullscreen").css("height", window_height)
 	$(".fitscreen").css("height", fitscreen);
